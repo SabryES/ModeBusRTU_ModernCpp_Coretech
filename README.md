@@ -108,7 +108,6 @@ g++ -std=c++17 Client_App.cpp -o modbus_client.exe
 ```
 ##  Execution 
 each Executable file in different terminals 
-
-terminal 1 :\build\Debug\modbus_server.exe
-terminal 2:\build\Debug\modbus_client.exe
+-terminal 1    :\build\Debug\modbus_server.exe
+-terminal 2    :\build\Debug\modbus_client.exe
 
